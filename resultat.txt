@@ -1,0 +1,71 @@
+
+Choisir : 
+  Ventes
+  Achats
+  Clients
+‣ Articles
+  Factures
+  Autres…
+  Collaborateurs
+  Collaborations
+  Renoncer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renoncer/quitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
