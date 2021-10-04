@@ -1,14 +1,4 @@
 
-Choisir : 
-  Ventes
-  Achats
-  Clients
-‣ Articles
-  Factures
-  Autres…
-  Collaborateurs
-  Collaborations
-  Renoncer
 
 
 
@@ -27,45 +17,21 @@ Choisir :
 
 
 
+/CODE RETOUR »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+Traceback (most recent call last):
+/Users/philippeperret/Programmes/AS-CLI-Test/checker.rb:30:in `<main>': undefined local variable or method `commande_file' for main:Object (NameError)
+Did you mean?  command_file
+phil@MacMini> echo "Hello world!"
+dquote> 
+dquote> RETURN
+dquote> ---
+dquote> 
 
-
-
-
-
-
-
-
-
-
-Renoncer/quitter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/CODE RETOUR »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+Traceback (most recent call last):
+/Users/philippeperret/Programmes/AS-CLI-Test/checker.rb:30:in `<main>': undefined local variable or method `commande_file' for main:Object (NameError)
+Did you mean?  command_file
+phil@MacMini> echo "Hello world!"
+dquote> 
+dquote> RETURN
+dquote> -

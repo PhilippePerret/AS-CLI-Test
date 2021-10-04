@@ -4,3 +4,4 @@
 =begin
   Test de commande hello_world
 =end
+expect(resultat).contains("Hello world!")

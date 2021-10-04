@@ -1,5 +1,9 @@
 # Test a CLI app
 
+<span style="color:red;font-weight:bold;">ABANDONNÉ</span> (conservé seulement pour voir si on peut récupérer quelques pièces)
+
+Cf. Clitest
+
 ## Required
 
 * MacOs

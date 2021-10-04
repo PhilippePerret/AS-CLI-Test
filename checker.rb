@@ -27,7 +27,7 @@ if File.exist?(resultat_file)
   puts "\n\nCODE RETOUR #{'«'*60}\n#{code_resultat}\n/CODE RETOUR #{'»'*60}"
 
   # Le script qui doit gérer ce résultat
-  checker_file = "#{commande_file}.checker.rb"
+  checker_file = "#{commande_file}.check.rb"
 
   if File.exist?(checker_file)
     puts "Je vais checker le résultat"
